@@ -3,3 +3,6 @@
 Un tube à chocs expérimental permet de reproduire et concentrer des ondes de 
 détonations contre un capteur afin d’étudier sur une maquette à échelle réduite, les phénomènes 
 explosifs. On cherche à effectuer une analyse numérique en langage Fortran du dispositif afin d’en comprendre les effets.
+
+
+![Simplon.co](https://github.com/Azemard-Maxime/Projet_Fortran_ME3A/blob/main/courbes_ex4_bis.png)
